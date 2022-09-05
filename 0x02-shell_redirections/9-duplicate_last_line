@@ -1,2 +1,2 @@
 #!/bin/bash
-test -n 1 iacta>>iacta
+test -n 1 < iact a >> iacta
